@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/alihkhawaher-everything-search-server-badge.png)](https://mseep.ai/app/alihkhawaher-everything-search-server)
+
 # Everything Search MCP Server
 
 An MCP server that provides integration with Everything Search Engine, allowing powerful file search capabilities through the Model Context Protocol.
